@@ -2,8 +2,7 @@
 
 A minimal project management dashboard for tracking projects and tasks.
 
-**Live demo:** [your Vercel URL]
-(The API runs on a free tier and may take up to a minute to wake on first load.)
+**Live demo:** https://taskflow-il9e.onrender.com/
 
 ![Dashboard](docs/dashboard.png)
 
